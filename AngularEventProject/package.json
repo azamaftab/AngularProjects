@@ -6,7 +6,7 @@
   "scripts": {
     "ng": "ng",
     "build": "webpack",
-    "start": "webpack-dev-server --port=4200",
+    "start": "webpack-dev-server --port=4900",
     "test": "karma start ./karma.conf.js",
     "lint": "tslint ./src/**/*.ts -t verbose",
     "e2e": "protractor ./protractor.conf.js",

@@ -2360,11 +2360,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Azam\\Source\\Repos\\AngularEventProject\\AngularEventProject\\AngularEventProject.csproj",
+      "projectUniqueName": "D:\\AngularProjects\\AngularEventProject\\AngularEventProject.csproj",
       "projectName": "AngularEventProject",
-      "projectPath": "C:\\Users\\Azam\\Source\\Repos\\AngularEventProject\\AngularEventProject\\AngularEventProject.csproj",
+      "projectPath": "D:\\AngularProjects\\AngularEventProject\\AngularEventProject.csproj",
       "packagesPath": "C:\\Users\\Azam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Azam\\Source\\Repos\\AngularEventProject\\AngularEventProject\\obj\\",
+      "outputPath": "D:\\AngularProjects\\AngularEventProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
